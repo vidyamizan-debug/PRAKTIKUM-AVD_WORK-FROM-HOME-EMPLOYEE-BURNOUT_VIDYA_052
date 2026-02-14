@@ -1,8 +1,4 @@
-# CheckPoint-1_AVD_Vidya-Khansa-Mizan_2509116052
-Vidya Khansa Mizan - 2509116052
+# PRAKTIKUM-AVD_WORK-FROM-HOME-EMPLOYEE-BURNOUT_VIDYA_052
+VIDYA KHANSA MIZAN | 2509116052 | SISTEM INFORMASI B 2025\
 
-# LINK DATASET
-Berikut ini allah dataset yang saya gunakan dalam pengerjaan CheckPoint 
-
-# GOOGLE COLAB
-Berikut ini ialah link Google Colab yang saya gunakan dalam mengerjakan 
+Link Google Colab : https://colab.research.google.com/drive/1CKq5fzssaYU1oyWUJj4nXzxE23WFp6il?usp=sharing
